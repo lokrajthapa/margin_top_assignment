@@ -77,3 +77,9 @@ http://127.0.0.1:8000/api/events  //for local development
 
 for single events
 http://127.0.0.1:8000/api/event/2  //for local evenvironment
+
+
+
+for login 
+email->test@gmail.com
+password->password
