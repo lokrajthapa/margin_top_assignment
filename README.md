@@ -68,3 +68,12 @@ npm install
 npm run dev
 
 
+
+if you want to check event api then
+
+for all events
+http://127.0.0.1:8000/api/events  //for local development
+
+
+for single events
+http://127.0.0.1:8000/api/event/2  //for local evenvironment
